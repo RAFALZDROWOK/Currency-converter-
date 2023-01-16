@@ -1,0 +1,64 @@
+html {
+    box-sizing: border-box;
+    /* szerokość i wysokość zawsze będą obejmowały padding i border */
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+    /* szerokość i wysokość zawsze będą obejmowały padding i border */
+}
+
+.info {
+    font-size: small;
+    color: gray;
+}
+
+.button {
+    width: 100%;
+    background: teal;
+    color: white;
+    border: 1px solid teal;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 16px;
+}
+.button:hover {
+    background: hsl(180, 100%, 30%);
+}
+.button:active {
+    background: hsl(180, 100%, 35%);
+}
+
+.header {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.labelText {
+    display: inline-block;
+    max-width: 140px;
+    width: 100%;
+    margin-right: 5px;
+}
+
+.label__field {
+    max-width: 350px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.select {
+    max-width: 350px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.result {
+   text-align: center;
+}
