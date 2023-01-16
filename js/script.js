@@ -3,9 +3,9 @@ amountElement = document.querySelector(".js-amount");
 currencyElement = document.querySelector(".js-currency");
 resultElement = document.querySelector(".js-result")
 
-let rateEUR = 4.44;
-let rateUSD = 3.99;
-let rateGBP = 5.55;
+let rateEUR = 4.64;
+let rateUSD = 4.29;
+let rateGBP = 5.23;
 
 formElement.addEventListener("submit", (event) => {    /* preventDefault - blokuje domyslne wysłanie formularza */
     event.preventDefault();
