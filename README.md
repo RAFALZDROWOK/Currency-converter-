@@ -1,5 +1,5 @@
 ﻿# Rafał Zdrowok - My first currency-converter
- ![My currency-converter](https://user-images.)
+ ![My currency-converter](https://github.com/RAFALZDROWOK/Currency-converter-/blob/main/images/Currency%20converter.png?raw=true)
 ## Demo
 
 ## Description
