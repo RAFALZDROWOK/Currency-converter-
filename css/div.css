@@ -2,4 +2,9 @@
     max-width: 580px;
     margin: 10px auto;
     padding: 0 20px;
+    resize: both;
+    overflow: auto;
+    background-image: url("../images/landscape.JPG");
+    background-size: cover;
+    background-position: center;
 }
