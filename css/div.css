@@ -3,7 +3,7 @@
     padding: 0 30px;
     resize: both;
     overflow: auto;
-    background-image: url(../images/landscape.JPG);
+    background-image: url(../images/landscape.jpg);
     background-size: cover;
     background-position: center;
     flex-basis: 620px;
