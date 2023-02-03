@@ -3,5 +3,15 @@
     line-height: 1.5;
     /* pionowy odstęp między wierszami */
     background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    resize: both;
+    overflow: auto;
+    background-image: url(../images/currency.jpg);
+    background-size: cover;
+    background-position: center;
+
 }
 
