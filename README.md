@@ -8,3 +8,4 @@ The purpose of creating the currency-converter was:
 - gaining practice in styling a form in CSS
 - writing a code in JS that allows you to select a currency and convert its value depending on the amount of PLN
 - introduction of arrow function in JS
+- implementation of the Flex property in CSS
