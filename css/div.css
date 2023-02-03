@@ -1,11 +1,7 @@
 .container {
     margin: 20px;
     padding: 0 30px;
-    resize: both;
-    overflow: auto;
-    background-image: url(../images/landscape.jpg);
-    background-size: cover;
-    background-position: center;
+    background-color: white;
     flex-basis: 620px;
     border-radius: 20px;
     border: 1px solid rgb(137, 126, 126);
