@@ -10,10 +10,10 @@ The purpose of creating the currency-converter was:
 - introduction of arrow function in JS
 - implementation of the Flex property in CSS
 ## Technologies:
-HTML✔
-CSS✔
-JavaScript✔
-ES6+✔
-BEM✔
-GIT✔
-Flex✔
+- HTML✔
+- CSS✔
+- JavaScript✔
+- ES6+✔
+- BEM✔
+- GIT✔
+- Flex✔
