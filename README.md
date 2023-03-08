@@ -1,4 +1,4 @@
-# Rafał Zdrowok - My first currency-converter
+# Rafał Zdrowok - My first currency-converter - as part of the YouCode course
  ![My currency-converter](https://github.com/RAFALZDROWOK/Currency-converter-/blob/main/images/Currency%20converter.png?raw=true)
 ## Demo
 https://rafalzdrowok.github.io/Currency-converter-/
