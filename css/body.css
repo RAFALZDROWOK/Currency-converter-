@@ -1,7 +1,6 @@
 .body {
     font-family: 'Lato', sans-serif;
     line-height: 1.5;
-    /* pionowy odstęp między wierszami */
     background: #fff;
     display: flex;
     align-items: center;
@@ -12,6 +11,5 @@
     background-image: url(../images/currency.jpg);
     background-size: cover;
     background-position: center;
-
 }
 
